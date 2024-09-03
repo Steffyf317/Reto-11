@@ -1,5 +1,5 @@
 # Reto 11: Matrices
-### Steffy Geraldine Fernández González
+#### Hecho por Steffy Geraldine Fernández González
 ## 1.Desarrolle un programa que permita realizar la suma/resta de matrices. El programa debe validar las condiciones necesarias para ejecutar la operación.
 ```python
 def sumar_matrices(A,B):
